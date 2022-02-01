@@ -11,7 +11,7 @@ var nombreIngresado;
 //guardo el dato
 nombreIngresado=prompt("ingrese su nombre");
 //asigno nombre a la caja de texto
-txtIdNombre.value = nombreIngresado;
-//document.getElementById("txtIdNombre").value = nombreIngresado;
+//txtIdNombre.value = nombreIngresado;
+document.getElementById("txtIdNombre").value = nombreIngresado;
 }
 

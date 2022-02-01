@@ -11,6 +11,6 @@ var nombreIngresado;
 // guardo nombre en la variable
 nombreIngresado = prompt ("ingrese su nombre")
 // muestro el nombre
-	alert("su nombre es " + nombreIngresado)
+	alert("su nombre es " + nombreIngresado);
 }
 

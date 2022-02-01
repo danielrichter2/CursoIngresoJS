@@ -13,7 +13,11 @@ function mostrar()
 // mostrarlo por alert
 alert("su nombre es " + nombreIngresado);
 // txtIdNombre
-// nombreIngresado = txtIdNombre.value;
+
+// entrada: prompt, id
+//salida: alert, id, document.write()
+
 }
+
 
 
