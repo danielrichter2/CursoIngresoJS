@@ -21,12 +21,6 @@ function SacarResto()
 alert ("el resto de la divison es "+ resto);
 
 
-
-
-
-
-
-
-	//txtIdNumeroDividendo
+//txtIdNumeroDividendo
 	//txtIdNumeroDivisor
 }
